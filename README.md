@@ -6,6 +6,10 @@ Indian startup ecosystem is expanding and many innovative startups are coming up
 
 <p align="center"><img src="https://stvp-static-prod.s3.amazonaws.com/uploads/sites/2/2018/04/startup_funding_2-960x540.jpg"/></p>
 
+### Resources Used:
+- **Python Version:** 3.7
+- **Packages:** pandas,numpy,sklear,matplotlib, bokeh
+
 ### Data Source: https://trak.in/india-startup-funding-investment-2015/
 
 - We have details of 3044 funding details from 2015-2020
@@ -22,13 +26,18 @@ Indian startup ecosystem is expanding and many innovative startups are coming up
 Based on the analysis, we can observe following: 
 
 1. Number of Fundings increased from 2016 to 2017 but since then, there has been a steady decrease in the number of fundings
+![](https://github.com/yashica95/startup_funding/blob/master/images/overall_trend.png)
 2. Flipkart and Paytm were the top startups to receive the highest funding till date. Flipkart got the maximum one time funding of ~ $250 Billion in 2017 from Softbank in a Private Equity deal.
+![](https://github.com/yashica95/startup_funding/blob/master/images/facebook%26paytm%20.png)
 3. While 2016 had the most number of fundings, 2017 saw highest total funding recieved by indian startups. Since then the trend has been downward.
 4. Consumer Internet tops the most number of Fundings received whereas E-commerce industry saw the highest total funding amount recieved till date.
 5. Bengaluru seems to be the top choice for startups and investors in India. But its popularity is on a decline now.
+![](https://github.com/yashica95/startup_funding/blob/master/images/fundings_by_location.png)
 6. Seed Funding is the most common type of funding, followed by Private Equity. Other funding deals like Debt Funding, Series A,B and C form only ~2.5% of all deals. This suggest most startups in India are quite young. 
+![](https://github.com/yashica95/startup_funding/blob/master/images/investment_types.png)
 
 
-
-
+### Major Drawbacks:
+1. The data misses many startups fundings like - [Swiggy raised 1 Billion(USD)](https://techcrunch.com/2018/12/20/swiggy-raises-1-billion/) and some of the funding deals were 'Undisclosed' and therefore,we didn't have exact funding amount for few funding deals. Hence, our insights might be incorrect.
+2. Similar to Rapido's amount, the funding amount noted can be wrong because of not taking currency conversions in account.
 
