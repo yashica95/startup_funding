@@ -26,6 +26,9 @@ Based on the analysis, we can observe following:
 3. While 2016 had the most number of fundings, 2017 saw highest total funding recieved by indian startups. Since then the trend has been downward.
 4. Consumer Internet tops the most number of Fundings received whereas E-commerce industry saw the highest total funding amount recieved till date.
 5. Bengaluru seems to be the top choice for startups and investors in India. But its popularity is on a decline now.
+6. Seed Funding is the most common type of funding, followed by Private Equity. Other funding deals like Debt Funding, Series A,B and C form only ~2.5% of all deals. This suggest most startups in India are quite young. 
+
+
 
 
 
