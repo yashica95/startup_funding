@@ -25,7 +25,7 @@ Indian startup ecosystem is expanding and many innovative startups are coming up
 ### EDA: 
 Based on the analysis, we can observe following: 
 
-1. Number of Fundings increased from 2016 to 2017 but since then, there has been a steady decrease in the number of fundings
+1. Number of Fundings increased from 2016 to 2017 but since then there has been a steady decrease in the number of fundings.Though 2016 is the year with most number of funding deals, it is the year with the lowest sum 
 ![](https://github.com/yashica95/startup_funding/blob/master/images/overall_trend.png)
 2. Flipkart and Paytm were the top startups to receive the highest funding till date. Flipkart got the maximum one time funding of ~ $250 Billion in 2017 from Softbank in a Private Equity deal.
 ![](https://github.com/yashica95/startup_funding/blob/master/images/facebook%26paytm%20.png)
