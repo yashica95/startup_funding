@@ -34,8 +34,7 @@ Based on the analysis, we can observe following:
 5. Bengaluru seems to be the top choice for startups and investors in India. But its popularity is on a decline now.
 ![](https://github.com/yashica95/startup_funding/blob/master/images/fundings_by_location.png)
 6. Seed Funding is the most common type of funding, followed by Private Equity. Other funding deals like Debt Funding, Series A,B and C form only ~2.5% of all deals. This suggest most startups in India are quite young. 
-![](https://github.com/yashica95/startup_funding/blob/master/images/investment_types.png)
-
+![](https://github.com/yashica95/startup_funding/blob/master/images/investment_type_plotly.png)
 
 ### Major Drawbacks:
 1. The data misses many startups fundings like - [Swiggy raised 1 Billion(USD)](https://techcrunch.com/2018/12/20/swiggy-raises-1-billion/) and some of the funding deals were 'Undisclosed' and therefore,we didn't have exact funding amount for few funding deals. Hence, our insights might be incorrect.
